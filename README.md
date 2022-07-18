@@ -1,3 +1,3 @@
 # replicacao-amazon 
 Replicação do site Amazon Market.
-Back end feito em API REST e front end em React.
+Back end será feito utilizando java API REST e front end em React.
